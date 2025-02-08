@@ -1,4 +1,4 @@
-# Machine Vision Exercises Repository
+# Interest Points and Descriptors
 
 This repository contains several Python implementations for Machine Vision exercises, including interest point detection, descriptor extraction, homography estimation, and image stitching. The exercises were developed for the Machine Vision course at TU Wien and provide implementations for both Harris corner and SIFT-based feature extraction, as well as tools for matching and stitching images.
 
